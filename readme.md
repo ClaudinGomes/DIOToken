@@ -50,4 +50,6 @@ Para rodar o contrato, você precisa ter as seguintes ferramentas instaladas:
 
 1. **Clone este repositório**:
    ```bash
-   git clone https://github.com/SEU_USUARIO/DIOCoin.git
+   git clone https://github.com/ClaudinGomes/DIOCoin.git
+
+
